@@ -84,7 +84,6 @@ Sou a isabela sayuri, atualmente na faculdade aprendendo mais sobre o curso de d
 
 ### Estatísticas
 
-
 <p>
 <img 
 align="left" 
@@ -93,18 +92,21 @@ height="200"
 style="padding-right: 10px; margin-bottom: 50px;" 
 src="https://github-readme-stats.vercel.app/api?username=IsabelaSayuri&show_icons=true&theme=gruvbox_light&include_all_commits=true&locale=pt-br" 
 />
-
+<br>
+<br>
 <img 
 align="left" 
 alt="GitHub Stats" 
-height="200"
+height="150"
 style="padding-left: 10px; margin-bottom: 50px;" 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaSayuri&theme=gruvbox_light&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 <p>
-
 <br>
-<a href="https://github.com/IsabelaSayuri/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=IsabelaSayuri&bg_color=F7EAC0&color=303A0F&line=DFB24B&point=303A0F&hide_border=true" /></a>
+<br>
+<br>
+<a href="https://github.com/IsabelaSayuri/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=IsabelaSayuri&bg_color=F7EAC0&color=303A0F&line=DFB24B&point=303A0F&hide_border=true" style="width: 200px;" /></a>
+<br>
 
 <!-- <details> 
 
