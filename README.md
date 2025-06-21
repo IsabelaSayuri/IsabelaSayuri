@@ -89,7 +89,7 @@ Sou a isabela sayuri, atualmente na faculdade aprendendo mais sobre o curso de d
 align="left" 
 alt="GitHub Stats" 
 height="180" 
-style="padding-right: 10px; margin-bottom: 50px;" 
+style="padding-right: 10px;" 
 src="https://github-readme-stats.vercel.app/api?username=IsabelaSayuri&show_icons=true&theme=gruvbox_light&include_all_commits=true&locale=pt-br" 
 />
 <br>
