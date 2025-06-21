@@ -1,10 +1,10 @@
-##  🌸 Isabela Sayuri
+<h1 style="font-family: Cormorant Garamond; font-size:25px;">🌸 Isabela Sayuri</h1>
 
 **`Estudante`**
 
-Sou a isabela sayuri, atualmente na faculdade aprendendo mais sobre o curso de desenvolvimento de software multiplataforma. Buscando saber mais sobre tecnologia e aprofundando os meus conhecimentos. 
-<!-- ***agora sim italico e negrito*** -->
+<p style="font-family: Cormorant Garamond; font-size:16px;">Sou a isabela sayuri, atualmente na faculdade aprendendo mais sobre o curso de desenvolvimento de software multiplataforma. Buscando saber mais sobre tecnologia e aprofundando os meus conhecimentos. </p>
 
+<!-- ***agora sim italico e negrito, SE FOR DOIS FICA SO NEGRITO *** -->
 ---
 
 ### (*￣3￣)╭  Tecnologias utilizadas 
@@ -80,9 +80,11 @@ Sou a isabela sayuri, atualmente na faculdade aprendendo mais sobre o curso de d
 <a href="https://instagram.com/isa_sayuris2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://youtube.com/@sayuriurama?si=lNQBoXS0vgSqDces" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
-<br/>
 
-### Estatísticas
+
+<br>
+<br>
+<p style="font-family:Cormorant Garamond; font-weight: bold; font-size: 25px;"> Estatísticas</p>
 
 <div>
 <img 
@@ -95,7 +97,7 @@ src="https://github-readme-stats.vercel.app/api?username=IsabelaSayuri&show_icon
 </div>
 <br>
 <div style="">
-<a href="https://github.com/IsabelaSayuri/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=IsabelaSayuri&bg_color=F7EAC0&color=303A0F&line=DFB24B&point=303A0F&hide_border=true" style="width: 300px; margin-top: 50px; " /></img></a>
+<a href="https://github.com/IsabelaSayuri/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=IsabelaSayuri&bg_color=F7EAC0&color=303A0F&line=DFB24B&point=303A0F&hide_border=true" style="width: 400px; margin-top: 50px; " /></img></a>
 <br>
 </div>
 
@@ -122,4 +124,3 @@ src="https://github-readme-stats.vercel.app/api?username=IsabelaSayuri&show_icon
       <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
   </p>
 </details> -->
-
