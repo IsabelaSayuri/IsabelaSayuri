@@ -9,7 +9,6 @@
 
 ### (*￣3￣)╭  Tecnologias utilizadas 
 
-<br>
 <img 
     align="left" 
     alt="HTML"
