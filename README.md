@@ -83,8 +83,7 @@
 
 <br>
 <br>
-<p style="font-family:Cormorant Garamond; font-weight: bold; font-size: 25px;"> Estatísticas</p>
-
+**`Estatísticas`**
 <div>
 <img 
 align="left" 
